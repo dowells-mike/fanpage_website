@@ -1,0 +1,18 @@
+Colour Palletes:
+
+all header------
+Main header bg : rgb(11, 91, 182);
+
+navigation items-----
+nav text normal color : rgb(171, 202, 231);
+
+hovering------
+nav text hover color : rgb(255, 55, 148);
+nav text hover bg color : rgb(39, 56, 112);
+
+current page------
+nav text color : rgb(10, 2, 87);
+nav text bg color : rgb(255, 74, 150);
+
+
+
